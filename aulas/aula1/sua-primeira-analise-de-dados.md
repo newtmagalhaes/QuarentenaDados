@@ -44,11 +44,12 @@ Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites
 - Compartilhe seus experimentos com nosso time nas redes sociais;
 
 - Nosso espaço de discussão será no slack do [:link: DataHackers](https://datahackers.com.br), entre no canal **#quarentenadados** e lembre-se que as dúvidas da aula01 devem ser feitas no **#quarentadadados-aula1**.
+
 Bons estudos e até a próxima aula!
 
-## Desafios
+## Notebook
 
-
+> [:link: notebook](./introduction.ipynb "Código no Jupyter Notebook")
 
 ## Participantes
 
