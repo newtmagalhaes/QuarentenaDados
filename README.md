@@ -6,7 +6,9 @@ Repositório desenvolvido durante a **#QuarentenaDados**.
 
 ## :bookmark_tabs: Aulas
 
-- [:bookmark: 01-sua-primeira-analise-de-dados](./aulas/aula1/sua-primeira-analise-de-dados.md "Texto da aula 01")
+- [:bookmark: 1-sua-primeira-analise-de-dados](./aulas/aula1/sua-primeira-analise-de-dados.md "Texto da aula 1")
+
+- [:bookmark: 2-visualizacao-de-dados](./aulas/aula2/visualizacao-de-dados.md "Texto da aula 2")
 
 ## :pencil: Versionamento
 
