@@ -12,6 +12,8 @@ Repositório desenvolvido durante a **#QuarentenaDados**.
 
 - [:bookmark: 3-estatistica-na-pratica](./aulas/aula3/estatistica-na-pratica.md "Texto da aula 3")
 
+- [:bookmark: 4-estatisticas-correlacoes-enem](./aulas/aula4/estatisticas-correlacoes-enem.md "Texto da aula 3")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.
