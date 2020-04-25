@@ -12,7 +12,9 @@ Repositório desenvolvido durante a **#QuarentenaDados**.
 
 - [:bookmark: 3-estatistica-na-pratica](./aulas/aula3/estatistica-na-pratica.md "Texto da aula 3")
 
-- [:bookmark: 4-estatisticas-correlacoes-enem](./aulas/aula4/estatisticas-correlacoes-enem.md "Texto da aula 3")
+- [:bookmark: 4-estatisticas-correlacoes-enem](./aulas/aula4/estatisticas-correlacoes-enem.md "Texto da aula 4")
+
+- [:bookmark: 5-regressao-machine-learning](./aulas/aula5/regressao-machine-learning.md "Texto da aula 5")
 
 ## :pencil: Versionamento
 
