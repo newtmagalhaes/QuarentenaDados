@@ -2,9 +2,52 @@
 
 > [:link: Site](https://www.alura.com.br/quarentenadados/aula02-visualizacao-de-dados "Site da aula 02")
 
+Seja bem-vindo e bem-vinda à segunda aula da **#QuarentenaDados**!
+
+Chegou a hora de aprender sobre _média_, _medianas_ e sobre as boas práticas na hora de exibir dados.
+Vamos juntos!!
+
+As respostas para os desafios da aula 01 você encontra [:link: neste notebook](https://colab.research.google.com/drive/1qTLPYaNm0IJqY5cr6_RwsqCC5SgHznYY)
+
 ## Aula
 
 > [:link: Videoaula](https://www.youtube.com/watch?v=FY8qyZnrEyI "Vídeo não listado no youtube")
+
+Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
+
+- Acesse o notebook da [:link: aula02](https://colab.research.google.com/drive/1pWce_y_rcVMyyjcqYnOC1Vur4CtuJp97 "Notebook no google collab");
+
+- Na parte superior esquerdo, clique em `File`, logo depois em `Save a copy in Drive`;
+
+- Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login de em uma conta google;
+
+- Feito o login uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente);
+
+- Abra o notebook e boa diversão.
+
+## Links das base de dados
+
+- [:link: Títulos e gêneros do Movie Lens;](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv)
+
+- [:link: Notas do Movie Lens;](https://github.com/alura-cursos/introducao-a-data-science/blob/master/aula0/ml-latest-small/ratings.csv?raw=true)
+
+- [:link: IMDB 5000;](https://gist.githubusercontent.com/guilhermesilveira/24e271e68afe8fd257911217b88b2e07/raw/e70287fb1dcaad4215c3f3c9deda644058a616bc/movie_metadata.csv)
+
+- [:link: Dados do ENEM.](https://github.com/guilhermesilveira/enem-2018/blob/master/MICRODADOS_ENEM_2018_SAMPLE_43278.csv?raw=true)
+
+## Alguns lembretes e dicas
+
+- Se tiver dificuldades ao utilizar o Colab, acesse este [:link: artigo da Alura;](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar)
+
+- No [:link: site do Movie Lens](https://movielens.org/) você encontra a base completa de filmes;
+
+- Faça os desafios deixados no final de cada aula;
+
+- Compartilhe seus experimentos com nosso time nas redes sociais;
+
+- Nosso espaço de discussão será no slack do [:link: DataHackers](https://datahackers.com.br), entre no canal **#quarentenadados** e lembre-se que as dúvidas da aula01 devem ser feitas no **#quarentadadados-aula1**.
+
+Bons estudos e até a próxima aula!
 
 ## Notebook
 
