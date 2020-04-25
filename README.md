@@ -10,6 +10,8 @@ Repositório desenvolvido durante a **#QuarentenaDados**.
 
 - [:bookmark: 2-visualizacao-de-dados](./aulas/aula2/visualizacao-de-dados.md "Texto da aula 2")
 
+- [:bookmark: 3-estatistica-na-pratica](./aulas/aula3/estatistica-na-pratica.md "Texto da aula 3")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.
